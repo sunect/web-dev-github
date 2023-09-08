@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is antother commit
+=======
+This is again a commit
+>>>>>>> feature
 And here we go with commit #2!
